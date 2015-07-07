@@ -1,0 +1,14 @@
+{
+  "camera_array": [
+    {
+      "deviceId": 2,
+      "width": 960,
+      "height": 540 
+    },
+    {
+      "deviceId": 3,
+      "width": 960,
+      "height": 540 
+    }
+  ]
+}
