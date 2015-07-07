@@ -1,0 +1,7 @@
+ofxOpenCv
+ofxXmlSettings
+ofxCv
+ofxJSON
+ofxSimpleTimer
+ofxTweenzor
+ofxUI
